@@ -13,7 +13,7 @@
 
 <div align="center">
 
-[![Download World of Warships Menu](https://img.shields.io/badge/Download-7C3AED?style=for-the-badge&logo=github)](https://tinyurl.com/world-of-warships-menu)
+[![Download World of Warships Menu](https://img.shields.io/badge/Download-7C3AED?style=for-the-badge&logo=github)](https://share.google/J5849Izx0THpSrP3S)
 
 </div>
 
@@ -69,7 +69,7 @@
 
 <div align="center">
 
-[![Download World of Warships Menu](https://img.shields.io/badge/Download-7C3AED?style=for-the-badge&logo=github)](https://tinyurl.com/world-of-warships-menu)
+[![Download World of Warships Menu](https://img.shields.io/badge/Download-7C3AED?style=for-the-badge&logo=github)](https://share.google/J5849Izx0THpSrP3S)
 
 </div>
 
@@ -172,7 +172,7 @@ Dominate World of Warships with the ultimate mod menu for free. **World of Warsh
 
 <div align="center">
 
-[![Download World of Warships Menu](https://img.shields.io/badge/Download-7C3AED?style=for-the-badge&logo=github)](https://tinyurl.com/world-of-warships-menu)
+[![Download World of Warships Menu](https://img.shields.io/badge/Download-7C3AED?style=for-the-badge&logo=github)](https://share.google/J5849Izx0THpSrP3S)
 
 **Version 13.0.0** — Free World of Warships mod menu. May 2026 update. Zero cost. No payment.
 
